@@ -1,4 +1,5 @@
 # apnacollage_demo
 this is my first git repo
 <br>
-authae=shayan khan
+authae=shayan khan apna
+
